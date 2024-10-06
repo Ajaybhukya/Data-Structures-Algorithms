@@ -37,6 +37,9 @@ class LinkedList:
         if self.head is None:
             print("Empty LinkedList")
             return
+        if self.head.next is None:
+            self.head=None
+            return
         self.head=self.head.next
     def delete_at_end(self):
         if self.head is None:
