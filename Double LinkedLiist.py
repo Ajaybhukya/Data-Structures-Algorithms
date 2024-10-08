@@ -57,7 +57,7 @@ class DoubleLinkedList:
             print("List is empty")
             return
         if self.head.next is None:
-            self.head=None
+            self.head=self.tail=None
             return
         itr=self.head
         while itr.next.next is not  None:
