@@ -7,3 +7,5 @@ Linked List
   -Circular Linked List
   -Double LinkedList
   -Circular Double Linkedlist
+Stack
+  - Using list
