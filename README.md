@@ -2,6 +2,7 @@
 
 This repository contains my learning journey and implementation of various Data Structures and Algorithms (DSA) concepts. As a student, I am actively exploring fundamental DSA topics to strengthen my understanding and problem-solving skills.
 -->  Concepts:\ 
+Data Structures\
 Linked List
   -Single Linked List
   -Circular Linked List
@@ -15,4 +16,6 @@ Linked List
 \ Queue
   -- Using LinkedList
   -- Using collections
-
+\Algorithms\ 
+  -- Binay search Recursive
+  -- Binay search Non-Recursive
