@@ -11,5 +11,8 @@ Linked List
 \ Stack
   - Using list
   -Using Linked List
+  -Using Collections
 \ Queue
   -- Using LinkedList
+  -- Using collections
+
