@@ -20,3 +20,4 @@ Linked List
   -- Binay search Recursive
   -- Binay search Non-Recursive
   -- Bubble Sort
+  -- Selection Sort
