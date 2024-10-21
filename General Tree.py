@@ -41,3 +41,16 @@ if __name__ == '__main__':
     root=built_tree()
     root.print_tree()
     print(root.get_level())
+'''
+OUTPUT:
+Electronic
+   |__Laptop
+      |__Mac
+      |__Windows
+      |__Linux
+   |__TV
+      |__Samsung
+      |__Sony
+      |__LG
+0
+'''
